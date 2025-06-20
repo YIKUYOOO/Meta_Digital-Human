@@ -10,8 +10,8 @@
 
 创建本项目环境：
 
-      pip install -r requirements.txt
+    pip install -r requirements.txt
 
 启动UI：
 
-      python webui_LST.py
+    python webui_LST.py
